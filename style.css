@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Roboto&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Roboto&display=swap'); */
 
 body{
 	background-color: #000;
 	color: #c0c0c0;
 	text-align: center;
 	font-size: 12px;
-	font-family: 'Roboto', sans-serif;
+	/* font-family: 'Roboto', sans-serif; */
 	overflow: hidden;
 	width: 100%;
 }
@@ -14,7 +14,7 @@ h2 {
 	font-size:1.8em;
 	font-weight:400;
 	text-align: center;
-	font-family: 'EB Garamond', serif;
+	/* font-family: 'EB Garamond', serif; */
 	/* text-transform:uppercase; */
 }
 h5 {
@@ -22,7 +22,7 @@ h5 {
 	font-size:1.3em;
 	text-align: center;
 	font-weight:400;
-	font-family: 'EB Garamond', serif;
+	/* font-family: 'EB Garamond', serif; */
 }
 a{
 	text-decoration: none;
