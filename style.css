@@ -32,6 +32,13 @@ a:hover{
 	color: gray;
 	text-decoration: underline;
 }
+
+iframe {
+    height: 75vh;
+		width: 70vw;
+		max-height: 75vh
+}
+
 .header {
 	background: #000;
 	position: absolute;

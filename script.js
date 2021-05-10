@@ -7,6 +7,6 @@ function choosePic() {
   document.getElementById("myPicture").src = myPix[randomNum]
 };
 
-$('.carousel').carousel({
-  interval: 10000
-})
+// $('.carousel').carousel({
+//   interval: 10000
+// })
